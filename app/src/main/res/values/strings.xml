@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PineApple</string>
+    <string name="temperature">Temperature</string>
+    <string name="_0">0</string>
+    <string name="settings">Settings</string>
+    <string name="hello_user" />
+</resources>
